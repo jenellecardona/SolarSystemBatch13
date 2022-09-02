@@ -9,5 +9,12 @@ public class Main {
 
         System.out.println("The basic structure is ready");
 
+        //developing the feature sun
+        Sun sun=new Sun();
+        sun.temperature="12345";
+        sun.name="Ontero";
+        sun.radius="765432312";
+        sun.color="Orange";
+
     }
 }
