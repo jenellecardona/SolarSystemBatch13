@@ -13,7 +13,7 @@ public class Main {
         Sun sun=new Sun();
         sun.temperature="12345";
         sun.name="Ontero";
-        sun.radius="765432312";
+        sun.radius=7654321;
         sun.color="Orange";
 
     }
