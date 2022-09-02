@@ -16,5 +16,11 @@ public class Main {
         sun.radius=7654321;
         sun.color="Orange";
 
+        //Planet 2
+        Planet2 planet2=new Planet2();
+        planet2.color="Green";
+        planet2.size="766558585km";
+        planet2.name="Pliea";
+
     }
 }
