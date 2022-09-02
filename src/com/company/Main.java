@@ -16,5 +16,14 @@ public class Main {
         sun.radius=7654321;
         sun.color="Orange";
 
+        //developing planet 1
+        Planet1 planet=new Planet1();
+        planet.color="magenta";
+        planet.name="Hash";
+        planet.size="545488km";
+
+
+
+
     }
 }
